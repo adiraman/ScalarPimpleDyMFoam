@@ -12,7 +12,7 @@ Lref              Lref [ 0 1 0 0 0 0 0 ] 0.01;
 Vref              Vref [ 0 1 -1 0 0 0 0 ] 7.5;
 
 
-How do I get set up?
+# How do I get set up? #
 
 Source the openfoam environment (bashrc or cshrc file) to load the proper environment
 variables. Place this folder in the $WM_PROJECT_USER_DIR/applications/solvers/ directory
